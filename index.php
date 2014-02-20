@@ -7,7 +7,7 @@
     </head>
     <body>
         <?php
-        // put your code here
+        var_dump('hej');
         ?>
     </body>
 </html>

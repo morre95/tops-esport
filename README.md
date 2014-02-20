@@ -1,7 +1,7 @@
 # Tops eSport!
 
 ## Syfte
-Här tänkte jag att vi kunde använda för att börja jobba fram en plan för utveklingen av Tops-eSport.se. Denna fil kommer toroligtvis bli uppdelad senare så att den inte blir för stor och svårläst
+Här tänkte jag att vi kunde använda för att börja jobba fram en plan för utveklingen av Tops-eSport.se. Denna fil kan med fördel delas upp senare så att den inte blir för stor och svårläst
 
 ### Frågor
 Fyll på med frågor som ni kommer på under tiden gång

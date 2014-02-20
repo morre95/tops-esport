@@ -7,10 +7,10 @@ Här tänkte jag att vi kunde använda för att börja jobba fram en plan för u
 Fyll på med frågor som ni kommer på under tiden gång
 
 1. Vad ska sidan använda till?
-..* Skriv svar här: 
-..* Svar: 
+    * Skriv svar här: 
+    * Svar: 
 2. Vem bygger vi sidan till?
-..* Svaret här
+    * Svaret här
 
 ### Att göra lista
 Här kan vi skriva upp vad som ska göras vad som är gjort och vad som är på gång

@@ -5,10 +5,12 @@ Här tänkte jag att vi kunde använda för att börja jobba fram en plan för u
 
 ### Frågor
 Fyll på med frågor som ni kommer på under tiden
+
 1. Vad ska sidan använda till?
-* Skriv svar här: 
-* Svar: 
+..1. Skriv svar här: 
+..2. Svar: 
 2. Vem bygger vi sidan till?
+..* Svaret här
 
 
 ### Referenser
